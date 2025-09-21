@@ -1,3 +1,6 @@
+# Keyshia Maheswari Anjani_2511513002
+# Muhammad Jiwa Wira Tomo_2511512002
+
 # Importing
 import tkinter as tk # import library tkinter
 
