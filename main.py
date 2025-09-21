@@ -1,7 +1,5 @@
-
 # Importing
 import tkinter as tk # import library tkinter
-
 
 # Define Global Variable
 currentdataindex = 0 # untuk menyimpan posisi data sekarang
@@ -115,7 +113,6 @@ labeltotalpemasukan.grid(row=0, column=4) # tampilkan total pemasukan dengan met
 frame_atas.pack() # tampilkan frame atas dengan methode pack
 frame_data.pack() # tampilkan frame tengah / data dengan methode pack
 frame_bawah.pack() # tampilkan frame bawah dengan methode pack
-
 
 # Execution
 if __name__ == "__main__": # cek file ini sebagai main / file utama
