@@ -8,10 +8,10 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+# :notebook_with_decorative_cover: Tim pembuat
 
-- [About the Project](#star2-about-the-project)
-
+- Keyshia Maheswari Anjani_2511513002
+- Muhammad Jiwa Wira Tomo_2511512002
 
 ## :star2: About the Project
 
