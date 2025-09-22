@@ -31,11 +31,6 @@
 ### :running: Run Locally
 
 Clone the project
-
-```bash
-https://github.com/jiwaunand/manageME-python/tree/master
-```
-Clone the project
 ```bash
 https://github.com/jiwaunand/manageME-python.git
 ```
